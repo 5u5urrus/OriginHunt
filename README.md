@@ -1,6 +1,6 @@
 # OriginHunt
 
-![originhunt](https://github.com/user-attachments/assets/02f01891-57ce-43f2-a4c0-67d6ffed0af0)
+![originHunt1](https://github.com/user-attachments/assets/bdaa465d-46ee-4a23-9282-716a2a30454c)
 
 OriginHunt is an advanced reconnaissance tool designed to uncover the real IP addresses behind CDN-protected websites. By leveraging multiple attack vectors, it helps penetration testers and security researchers reveal hidden backend servers efficiently.
 
