@@ -17,7 +17,7 @@ OriginHunt is an advanced reconnaissance tool designed to uncover the real IP ad
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/originhunt.git
+git clone https://github.com/5u5urrus/originhunt.git
 cd originhunt
 ```
 
